@@ -4,6 +4,7 @@ ForumHub é um aplicativo Spring Boot que fornece uma API RESTful para gerenciar
 
 ## Estrutura
 
+```
 forumhub/
 │
 ├── src/
@@ -41,6 +42,7 @@ forumhub/
 ├── pom.xml
 └── README.md
 
+```
 
 ## Pré-requisitos
 
