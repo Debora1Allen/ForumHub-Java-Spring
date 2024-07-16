@@ -192,7 +192,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
 
 #### Exemplo de solicitação:
 ``` http
-DDELETE /topicos/1 HTTP/1.1
+DELETE /topicos/1 HTTP/1.1
 Host: localhost:8080
 Authorization: Bearer eyJhbGciOiJIUzI1NiJ9...
 ```
